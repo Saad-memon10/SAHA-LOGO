@@ -1,0 +1,10 @@
+. hero{
+    height: 150px;
+    background: linear-gradient(rgba(0,0))
+}
+.search-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px auto;
+}
